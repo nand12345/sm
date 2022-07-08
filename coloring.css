@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+}
+
+.right-section{
+    margin-left: 0;
+}
+
+.landing-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-section{
+    font-family: "Sofia Pro", sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    position: relative;
+    margin-right: 1.5rem;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.High-on-section{
+    color: orange;
+    text-align: center;
+}
+
+.Login{
+    color: white;
+    text-align: center;
+}
+
+.Login-section{
+    width: 172px;
+    height: 24px;
+    filter: drop-shadow(rgba(0, 0, 0, 0.2) 0px 0.25rem 1rem);
+    background: rgb(255, 255, 255) none repeat scroll 0% 0%;
+    color: rgb(0, 0, 0);
+    font-family: "Sofia Pro", sans-serif;
+    border-radius: 1.875rem;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    letter-spacing: 0.15px;
+    padding: 1rem 5rem;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content{
+    color: white;
+    text-align: center;
+    font-size: 21px;
+}
+
+.footer{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: cornflowerblue;
+    padding: 50px;
+}
